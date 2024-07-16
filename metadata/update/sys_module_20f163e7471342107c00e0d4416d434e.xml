@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[{
+    "name": "x-snc-vkpgift-2",
+    "version": "0.0.1",
+    "description": "vkpgift 2",
+    "license": "UNLICENSED",
+    "scripts": {
+        "build": "now-sdk build",
+        "deploy": "now-sdk deploy",
+        "fetch": "now-sdk fetch",
+        "dependencies": "now-sdk dependencies"
+    },
+    "devDependencies": {
+        "@servicenow/sdk": "1.1.0-rc52",
+        "@servicenow/glide": "25.0.3-alpha5",
+        "eslint": "8.50.0",
+        "@servicenow/eslint-plugin-sdk-app-plugin": "1.1.0-rc52"
+    }
+}
+]]></content>
+        <external_source>false</external_source>
+        <path>x_snc_vkpgift2/x-snc-vkpgift-2/0.0.1/package.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-16 07:17:39</sys_created_on>
+        <sys_id>20f163e7471342107c00e0d4416d434e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_vkpgift2/x-snc-vkpgift-2/0.0.1/package.json</sys_name>
+        <sys_package display_value="vkpgift2" source="x_snc_vkpgift2">bc459f660e874f339d47e0c63b037f01</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="vkpgift2">bc459f660e874f339d47e0c63b037f01</sys_scope>
+        <sys_update_name>sys_module_20f163e7471342107c00e0d4416d434e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-16 07:17:39</sys_updated_on>
+    </sys_module>
+</record_update>
