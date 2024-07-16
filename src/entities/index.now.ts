@@ -42,6 +42,8 @@ BusinessRule({
     name: 'LogStateChange4',
     order: 300,
     when: 'after',
-    active: true,
+    active: false,
     abort_action: false,
 })
+
+//test
